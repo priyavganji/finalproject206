@@ -12,8 +12,6 @@ def setUpDatabase(db_name):
     return conn
 
 conn = setUpDatabase('Artworks_db')
-conn
-
 
 conn = sqlite3.connect(r'C:\Users\\Desktop\Artworks_db')
 cur = conn.cursor()
