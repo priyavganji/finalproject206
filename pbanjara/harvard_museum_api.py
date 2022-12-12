@@ -29,7 +29,7 @@ def create_object_table(cur):
 
 # CREATE DATABASE TABLE FOR PERSONS
 def create_people_table(cur):
-   
+    
     cur.execute("""
     CREATE TABLE IF NOT EXISTS person
     (id INTEGER PRIMARY KEY, 
