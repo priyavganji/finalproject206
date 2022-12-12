@@ -1,9 +1,0 @@
-Maximum number of Paintings by Unknown Artist which is 195
-Minimum number of paintings by Robert Barry which is 1
-Maximum End Date: Year 2000
-Minimum End Date: Year 1140
-Average End Date: 1821.87 years.
-Maximum Begin Date: Year 2000
-Minimum Begin Date: Year 1127
-Average Begin Date: 1806.08 years.
-Average Paintings Completion Time: 15.79 years
